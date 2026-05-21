@@ -590,7 +590,7 @@ Weapons		Service Rifle, Grease Gun, 9mm pistol, all good.
 /datum/job/ncr/f13heavytrooper
 	title = "NCR Heavy Trooper"
 	flag = F13HEAVYTROOPER
-	total_positions = 1
+	total_positions = 2
 	spawn_positions = 2
 	description = "You are the NCREG's heaviest hitter. Choose your loadout careful and ensure that you utilise your gear and armour to lay down suppressive fire, flush out enemies, and tank hits in the process."
 	supervisors = "Corporal and Above"

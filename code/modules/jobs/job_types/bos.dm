@@ -172,8 +172,8 @@ Head Paladin
 	backpack_contents = list(
 		/obj/item/twohanded/sledgehammer/supersledge = 1,
 		/obj/item/book/granter/trait/bigleagues = 1,
-		/obj/item/gun/ballistic/revolver/colt6520 = 1,
-		/obj/item/ammo_box/l10mm = 2,
+		/obj/item/gun/ballistic/automatic/pistol/pistol14 = 1,
+		/obj/item/ammo_box/magazine/m14mm = 2,
 	)
 
 /*
@@ -488,9 +488,9 @@ Paladin
 /datum/outfit/loadout/paladina
 	name = "Assault Paladin"
 	backpack_contents = list(
-		/obj/item/melee/f13powerfist = 1,
-		/obj/item/gun/ballistic/revolver/colt6520 = 1,
-		/obj/item/ammo_box/l10mm = 2,
+		/obj/item/twohanded/sledgehammer/supersledge = 1,
+		/obj/item/gun/ballistic/automatic/pistol/mk23 = 1,
+		/obj/item/ammo_box/magazine/m45exp = 3,
 		/obj/item/book/granter/trait/bigleagues = 1,
 		/obj/item/clothing/accessory/bos/paladin = 1,
 		/obj/item/clothing/accessory/bos/juniorpaladin = 1,
@@ -501,7 +501,7 @@ Paladin
 	name = "Tactical Paladin"
 	backpack_contents = list(
 		/obj/item/gun/ballistic/automatic/assault_rifle/r91 = 1,
-		/obj/item/ammo_box/magazine/m556mm = 2,
+		/obj/item/ammo_box/magazine/m556mm/drum = 2,
 		/obj/item/clothing/accessory/bos/paladin = 1,
 		/obj/item/clothing/accessory/bos/juniorpaladin = 1,
 		/obj/item/clothing/accessory/bos/seniorpaladin = 1,
@@ -511,7 +511,7 @@ Paladin
 	name = "Frontline Paladin"
 	backpack_contents = list(
 		/obj/item/gun/energy/laser/aer9 = 1,
-		/obj/item/stock_parts/cell/ammo/mfc = 2,
+		/obj/item/stock_parts/cell/ammo/mfc = 3,
 		/obj/item/clothing/accessory/bos/paladin = 1,
 		/obj/item/clothing/accessory/bos/juniorpaladin = 1,
 		/obj/item/clothing/accessory/bos/seniorpaladin = 1,
